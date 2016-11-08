@@ -1,9 +1,9 @@
 Another fork from [loedeman/AutoMapper](https://github.com/loedeman/AutoMapper).
 
-# AutoMapper
+# xJsAutoMapper
 This is a TypeScript / Javascript AutoMapper implementation. The pursuit of this implementation is to mimic both usage and functionality of the [original .NET AutoMapper library](https://github.com/AutoMapper/AutoMapper).
 
-## What is AutoMapper?
+## What is xJsAutoMapper?
 AutoMapper is a fairly small library built to solve a deceptively complex problem - getting rid of code that mapped one object to another. This type of code is rather dreary and boring to write, so why not use a tool to do it for us?
 Since most of us already are familiar with AutoMapper in .NET, our belief was there should be an somewhat similar implementation for JavaScript. Unfortunately, such library did not exist already. Well, here it finally is: an Automapper
 implementation for use in TypeScript / Javascript, entirely built and tested using TypeScript.
