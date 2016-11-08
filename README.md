@@ -1,8 +1,6 @@
 Another fork from [loedeman/AutoMapper](https://github.com/loedeman/AutoMapper).
 
 # AutoMapper
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url]
-
 This is a TypeScript / Javascript AutoMapper implementation. The pursuit of this implementation is to mimic both usage and functionality of the [original .NET AutoMapper library](https://github.com/AutoMapper/AutoMapper).
 
 ## What is AutoMapper?
