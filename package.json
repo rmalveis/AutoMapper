@@ -11,6 +11,12 @@
   ],
   "author": "Bert Loedeman",
   "homepage": "https://github.com/loedeman/AutoMapper",
+  "contributors": [
+    {
+      "name": "Rafael M Ximenes",
+      "email": "rmalveis+xjsautomapper@gmail.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/loedeman/AutoMapper/issues"
   },

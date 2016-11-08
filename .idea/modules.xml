@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AutoMapper.iml" filepath="$PROJECT_DIR$/.idea/AutoMapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xJsAutoMapper.iml" filepath="$PROJECT_DIR$/.idea/xJsAutoMapper.iml" />
     </modules>
   </component>
 </project>
